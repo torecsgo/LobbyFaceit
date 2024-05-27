@@ -36,9 +36,9 @@
 2. **Edit the Script to Add Your Faceit TOKEN**:
    - Open the script file in a text editor and add your Faceit TOKEN to the $headers hashtable. It should look like this:
 
-   ```powershell
+```powershell
 $headers = @{
    "accept" = "application/json"
    "Authorization" = "Bearer YOUR_FACEIT_TOKEN"
 }
-   ```
+```
