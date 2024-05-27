@@ -21,6 +21,8 @@
 
 4. **Follow the Prompts**:
    - You will be prompted to enter the match ID. Type the match ID and press Enter.
+   - Example Match ID: 1-6df9ea22-2953-419d-acdb-992c07d4a8ab
+   ![Alt text](https://i.imgur.com/8bLvpEx.png)
      
 5. **View the Output**:
    - The script will make an HTTP request to the specified URL using the provided match ID.
