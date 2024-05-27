@@ -31,7 +31,7 @@
 
    - Run the following command to allow the script to execute. You might need to run PowerShell as an administrator to change the execution policy:
    ```powershell
-  Set-ExecutionPolicy Unrestricted -Scope Process -Force
+   Set-ExecutionPolicy Unrestricted -Scope Process -Force
    ```
 2. **Edit the Script to Add Your Faceit TOKEN**:
    - Open the script file in a text editor and add your Faceit TOKEN to the $headers hashtable. It should look like this:
